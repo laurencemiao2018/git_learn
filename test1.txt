@@ -15,3 +15,6 @@ This is fisrt form branch D
 
 this is first line from Branch E
 this is secnod line from branch E
+this is from main.
+
+this is from branch G.
