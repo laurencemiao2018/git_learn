@@ -12,4 +12,6 @@ add one line from branchC
 This is the second line from branch 
 
 This is fisrt form branch D
-#delete the second line from branch D
+
+this is first line from Branch E
+this is secnod line from branch E
