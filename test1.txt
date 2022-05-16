@@ -12,4 +12,4 @@ add one line from branchC
 This is the second line from branch 
 
 This is fisrt form branch D
-this is second from branch D
+#delete the second line from branch D
