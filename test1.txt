@@ -2,16 +2,11 @@ this is the first edit.
 
 this is from branch test2.
 
-<<<<<<< HEAD
 this wa's from branch test3.
 
 This is from branchB.
-=======
 this is from branch test3.
 
 This is from branch branchC
-<<<<<<< HEAD
->>>>>>> 593ae33 (add one line from branchC)
-=======
+add one line from branchC
 This is the second line from branch 
->>>>>>> e631c7d (add second line in branch C)
